@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Drive FileSync Manager Banner" width="100%">
+</p>
+
 # 📁 Drive & FileSync Manager — Automação de Backup e Sincronização
 
 > **Sistema inteligente de sincronização e espelhamento redundante de mídias, gravações de tela e arquivos de agência via Google Drive, FreeFileSync e automações em Python para macOS.**
